@@ -1,4 +1,4 @@
-## graphplotter
+## GraphApp
 
 A basic graph plotter developed in the QT development environment. 
 
