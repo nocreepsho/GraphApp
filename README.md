@@ -9,4 +9,13 @@ Drag and drop the text file in the application window to plot the graph.
 
 Two additional features are added for styling- Graph line thickness and color.
 
-Runs perfectly in QT Creator IDE.
+run graphApp.exe to start application.
+
+The data file should be txt. the format should be as follows:
+
+x1 y1<br>
+x2 y2<br>
+x3 y3<br>
+x4 y4
+
+A sample text file called file.txt is present inside the data folder. Drag and drop to see graph.
