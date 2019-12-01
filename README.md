@@ -19,3 +19,5 @@ x3 y3<br>
 x4 y4
 
 A sample text file called file.txt is present inside the data folder. Drag and drop to see graph.
+
+If dll files are reported missing use dependency walker to check and update missing dlls.
